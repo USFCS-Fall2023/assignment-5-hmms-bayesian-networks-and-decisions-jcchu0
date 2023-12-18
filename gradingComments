@@ -1,0 +1,38 @@
+Assignment 5 comments:
+
+Question 1:
+a. Choosing a route  4/10
+Your calculations for rt1 and rt3 are wrong.
+
+b. new info  10/10
+
+c. value of information: 5/10
+you need to consider what the optimal action is if r3 is not smooth
+and the probability of each outcome.
+
+d: chatGPT:  3/5
+more detail would be helpful here. ChatGPT does not do well at this sort of 
+problem.
+
+Question 2: HMMs
+
+a: load 5/5
+
+b. generate 10/10
+
+c. forward 6/10
+Not fully working, command-line args not implemented. Predicts # as final state.
+
+d. viterbi  6/10
+Not fully working. Returns empty state sequence. command-line args not implemented
+
+Question 3: Bayesian Nets
+
+a. query  5/5 
+
+b. Car net 10/10
+
+c. new node  10/10
+
+78/100
+
